@@ -1,6 +1,30 @@
+
+### Aggregated 2019 Local Election data for Greater Manchester:
+
+https://github.com/OpenDataManchester/Local-Election-Data-Hack-2019/blob/master/gm_wards_2019_result.csv
+
+
+### Democracy Club Election API:
+
 https://elections.democracyclub.org.uk/
 
-Council	Results pages
+
+### Open Council Data
+
+#### Councils
+
+https://github.com/OpenDataManchester/Local-Election-Data-Hack-2019/blob/master/opencouncildata_councils.csv
+
+#### Councillors:
+
+https://raw.githubusercontent.com/OpenDataManchester/Local-Election-Data-Hack-2019/master/opencouncildata_councillors.csv
+
+
+### Data from Last year's election scraped from council websites:
+
+https://github.com/OpenDataManchester/data/tree/master/themes/local-democracy/local-political-representation/050918
+
+### Council	Results pages:
 
 Bolton	https://www.bolton.gov.uk/downloads/file/2053/local-elections-2019-results
 
