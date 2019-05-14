@@ -4,6 +4,11 @@
 https://github.com/OpenDataManchester/Local-Election-Data-Hack-2019/blob/master/gm_wards_2019_result.csv
 
 
+### Britain Elects all wards results dataset
+
+https://docs.google.com/spreadsheets/d/1wl1hBYjrCWvMyjO5Pzsez89xFdIky-RLHGgO0r11NNg/edit#gid=635729702
+
+
 ### Democracy Club Election API:
 
 https://elections.democracyclub.org.uk/
